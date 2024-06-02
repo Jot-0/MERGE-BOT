@@ -1,14 +1,4 @@
 {
-	"name": "Telegram Video Merge Bot",
-	"description": "A Telegram Video Merge Bot in Pyrogram by @YashOswalYO",
-	"keywords": [
-		"telegram",
-		"video",
-		"merge",
-		"bot"
-	],
-	"repository": "https://github.com/Jot4349/MERGE-BOT",
-	"website": "https://telegram.dog/yashoswalyo",
 	"stack": "container",
 	"env": {
 		"CONFIG_FILE_URL": {
